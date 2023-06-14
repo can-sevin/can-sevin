@@ -4,4 +4,4 @@
 
 &nbsp;
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=can-sevin&repo=StopSmoking)]([https://github.com/can-sevin/StopSmoking](https://github.com/can-sevin/StopSmoking))
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=can-sevin&repo=StopSmoking&theme=midnight-purple)]([https://github.com/can-sevin/StopSmoking](https://github.com/can-sevin/StopSmoking))
